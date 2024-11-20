@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Это основная ветка");
+            Console.WriteLine("Это первая ветка");
+
         }
     }
 }
